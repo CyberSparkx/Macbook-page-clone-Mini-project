@@ -10,7 +10,7 @@ const M4Chip = () => {
         {/* <video className='w-[90vw] mx-[4vw] rounded-2xl' autoplay loop muted src="m4chip.mp4"/> */}
 
 <video autoPlay muted loop className='w-[90vw] mx-[4vw] rounded-2xl'>
-  <source src="m4chip.mp4" type="video/mp4" />
+  <source src="https://www.apple.com/105/media/us/macbook-pro/2024/00a46e4c-adb6-4301-aa38-917d219bff07/anim/performance/large_2x.mp4" type="video/mp4" />
 </video>
 
     </div>
